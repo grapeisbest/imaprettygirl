@@ -29,10 +29,10 @@
 <!-- Widget section -->
 <h2 align=center>🚀 Stats 🚀</h2>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imaprettygirl&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grapeisbest&layout=compact">
 </div>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=imaprettygirl&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
+  <img src="https://github-readme-stats.vercel.app/api?username=grapeisbest&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=DEG,a49cec,d6a4a4">
 </div>
 <br />
 
